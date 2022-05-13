@@ -1,0 +1,10 @@
+intel syntax 
+
+op $どこに $何を
+
+rdi 第１引数
+rsi 第２引数
+
+
+https://www.sigbus.info/compilerbook
+https://qiita.com/edo_m18/items/83c63cd69f119d0b9831
